@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\img_default.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\img_default.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading18.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading18.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading12.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading12.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading26.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading26.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading21.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading21.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_palyer_brightness.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_palyer_brightness.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_palyer_volume.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_palyer_volume.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading27.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading27.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading19.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading19.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading04.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading04.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading20.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading20.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_shrink.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_shrink.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading03.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading03.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading00.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading00.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_center_start.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_center_start.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading06.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading06.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\player_mask_top.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\player_mask_top.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading11.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading11.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading28.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading28.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading14.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading14.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading17.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading17.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading22.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading22.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading25.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading25.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading09.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading09.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_replay.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_replay.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_pause.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_pause.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading23.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading23.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading15.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading15.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading07.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading07.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_palyer_share.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_palyer_share.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading29.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading29.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\player_mask_bottom.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\player_mask_bottom.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading24.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading24.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading01.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading01.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading08.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading08.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading02.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading02.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading16.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading16.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading05.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading05.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading13.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading13.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_enlarge.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_enlarge.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\loading10.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\loading10.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_back.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_back.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_player_start.png",
+        "source": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_player_start.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    }
+]

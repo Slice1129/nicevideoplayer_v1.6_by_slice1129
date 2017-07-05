@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Android\\work\\MyGitHub\\nicevideoplayer\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\965882ec407a3ffc6f846f90ca034d2bcbf052da\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
